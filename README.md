@@ -1,5 +1,10 @@
 # IDOR Bug Bounty Lab
 
+## IMPORTANT : 
+More **advanced and professional challenges** will be added over time to expand this lab and cover a wider range of real-world IDOR scenarios.
+
+
+
 A simple bug bounty lab built for practicing **IDOR (Insecure Direct Object Reference)** vulnerabilities.
 
 ## Purpose
